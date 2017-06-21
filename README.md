@@ -1,5 +1,6 @@
 Getting & Cleaning Data Course Project for Coursera
-This repository contains the R code and the corresponding documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
+
+This repository contains the relevant R code and the corresponding documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
 
 Files
 
